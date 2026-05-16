@@ -7,3 +7,5 @@ submission.csv
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+_oof_predictions.npz
+catboost_info/
